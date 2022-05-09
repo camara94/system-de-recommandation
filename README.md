@@ -91,3 +91,7 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
    ## Methodes
 
    ![image](images/7.png)
+
+   ## Fonction de coût 
+
+   ![image](images/8.png)
