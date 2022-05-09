@@ -70,3 +70,11 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
   Cette approche, fonctionne beaucoup plus mieux sur des **bases de données** de type **graphe**
 
   ![image](images/4.png)
+
+  ## Approche par modèle
+
+  Malgré les résultats interessant de l'**approche par memore**, elle apparapit très gourmant en memoire, c'est pourquoi l'**approche par modèle** peut être aussi très intéressant.
+
+  L'idée c'est de pre-processer un modèle, le plus souvent pendant les périodes d'inactivé de l'entreprise c'est à dire un algorithme qui tourne en apprenant sur l'historique des interactions des utilisateurs et des nouvelles patternes observées pendant les périodes d'activités et lorsque les activités reprennent le modèle se base sur ses novelles connaissances pour faire la récommandation.
+
+  
