@@ -68,3 +68,5 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
   ## Type de Base de Données 
 
   Cette approche, fonctionne beaucoup plus mieux sur des **bases de données** de type **graphe**
+
+  ![image](images/4.png)
