@@ -64,3 +64,7 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
   ![image](images/3.png)
 
   Quand nous faisons ça sur l'ensemble des **produits** et **utilisateurs**, nous arrivons sur des recommandation assez impressionnants.
+
+  ## Type de Base de Données 
+
+  Cette approche, fonctionne beaucoup plus mieux sur des **bases de données** de type **graphe**
