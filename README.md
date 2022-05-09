@@ -35,3 +35,5 @@ Construction des système de recommandation
   1. Explicite (note de 0 à 5)
   2. Implicite (click, achat, vue, like)
 * Pas besoin d'autre données
+
+![image](images/2.png)
