@@ -58,3 +58,7 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
   Pour le produit **ordinateur portable Acer**, trouver tous les **utilisateurs** ayant **commander** cet objet, et trouver tous les autres objets ayant été **commander** par ces **utilisateurs**.
 
   l'importance de cette approche est qu'elle fonctionne bien sur des petits volumes comme sur des grands volumes.
+
+  ## Exemple
+
+  ![image](images/3.png)
