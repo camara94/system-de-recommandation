@@ -62,3 +62,5 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
   ## Exemple
 
   ![image](images/3.png)
+
+  Quand nous faisons ça sur l'ensemble des **produits** et **utilisateurs**, nous arrivons sur des recommandation assez impressionnants.
