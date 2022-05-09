@@ -80,5 +80,12 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
   * **Apprentissage supervisé**
     1. phase d'entrainement
     2. phase de test
-    
+
     ![image](images/6.png)
+
+  * **Approximation par representation latente** (embeddings)
+
+   Une notion importante dans ce concept est la notion de la **representation latente**
+   ou encore **embedding** en anglais qui constiste à prendre un vectuer par **utilisateur** et un vecteur par **produit** et ses vecteurs là auront une petite dimension.
+
+   ## Methodes
