@@ -89,3 +89,5 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
    ou encore **embedding** en anglais qui constiste à prendre un vectuer par **utilisateur** et un vecteur par **produit** et ses vecteurs là auront une petite dimension.
 
    ## Methodes
+
+   ![image](images/7.png)
