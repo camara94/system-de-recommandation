@@ -20,3 +20,10 @@ Construction des système de recommandation
 ## Exemples
 
 ![image](images/1.png)
+
+## Le Filtrage Collaboratif
+
+* Approche in memory
+* Approche par modèle
+* Limites 
+* Approches combinées et apports du Deep Learning
