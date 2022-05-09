@@ -52,4 +52,7 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
 ## Approche en mémoire
 
 * User-item
-  Pour l'utilisateur Laby, trouver tous les utilisateurs qui ont des acheter des produits similaires et recommander les objets que ces utilisateurs ont aimé. 
+  Pour l'utilisateur **Laby**, trouver tous les utilisateurs qui ont des acheter des produits similaires et recommander les objets que ces utilisateurs ont aimé. 
+
+* Item-item
+  Pour le produit **ordinateur portable Acer**, trouver tous les **utilisateurs** ayant **commander** cet objet, et trouver tous les autres objets ayant été **commander** par ces **utilisateurs**.
