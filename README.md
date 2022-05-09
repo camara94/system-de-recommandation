@@ -47,3 +47,9 @@ Son avantage c'est qu'on n'a pas de besoin d'information confidantielle sur l'ut
 * ...
   
 C'est ce que fait la pertinence de cette méthode car on n'a pas ces informations alors qu'elle donne des résultats impressionnants.
+
+
+## Approche en mémoire
+
+* User-item
+  Pour l'utilisateur Laby, trouver tous les utilisateurs qui ont des acheter des produits similaires et recommander les objets que ces utilisateurs ont aimé. 
