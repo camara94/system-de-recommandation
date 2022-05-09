@@ -95,3 +95,10 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
    ## Fonction de coût 
 
    ![image](images/8.png)
+
+   ## Les Limites
+
+   * **Philosophiques**
+       1. hypothèse d'invariabilité des goûts dans le temps
+       2. effet bulle
+   
