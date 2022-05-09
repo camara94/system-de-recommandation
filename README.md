@@ -45,3 +45,4 @@ Son avantage c'est qu'on n'a pas de besoin d'information confidantielle sur l'ut
 * le sexe
 * confection religieuse
 * ...
+C'est ce que fait la pertinence de cette méthode car on n'a pas ces informations alors qu'elle donne des résultats impressionnants.
