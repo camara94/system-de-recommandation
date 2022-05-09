@@ -37,3 +37,11 @@ Construction des système de recommandation
 * Pas besoin d'autre données
 
 ![image](images/2.png)
+
+## L'avantage de cette méthode
+
+Son avantage c'est qu'on n'a pas de besoin d'information confidantielle sur l'utilisateur:
+* l'âge
+* le sexe
+* confection religieuse
+* ...
