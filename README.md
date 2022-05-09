@@ -101,4 +101,7 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
    * **Philosophiques**
        1. hypothèse d'invariabilité des goûts dans le temps
        2. effet bulle
+   * **Techniques**
+       1. rien à recommander aux nouveaux utilisateurs (cold start)
+       2. impossible de recommander les produits. 
    
