@@ -16,3 +16,7 @@ Construction des système de recommandation
    2. sur les métadonnées (content based RS)
    3. sur l'historique des utilisateurs (collaborative filtering)
 * Ils sont parfois beaucoup plus basiques qu'imaginés
+
+## Exemples
+
+![image](images/1.png)
