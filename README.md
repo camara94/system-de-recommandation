@@ -81,4 +81,4 @@ C'est ce que fait la pertinence de cette méthode car on n'a pas ces information
     1. phase d'entrainement
     2. phase de test
     
-    ![image](images/5.png)
+    ![image](images/6.png)
