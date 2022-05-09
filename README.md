@@ -27,3 +27,11 @@ Construction des système de recommandation
 * Approche par modèle
 * Limites 
 * Approches combinées et apports du Deep Learning
+
+## Le Principe de Filtrage Collaboratif
+
+* Un utilisateur x objet(s): (user x item)
+* Nécessité d'un feedback utilisateur
+  1. Explicite (note de 0 à 5)
+  2. Implicite (click, achat, vue, like)
+* Pas besoin d'autre données
